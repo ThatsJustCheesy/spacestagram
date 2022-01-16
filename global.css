@@ -1,0 +1,21 @@
+body {
+  --bs-body-bg: #000;
+}
+
+.space-star {
+  position: fixed;
+  z-index: -1;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: #eee;
+  opacity: 0;
+}
+.space-star.fade-in {
+  transition: opacity 1s ease-in;
+  opacity: 1;
+}
+.space-star.fade-out {
+  transition: opacity 0.85s ease-out;
+  opacity: 0;
+}

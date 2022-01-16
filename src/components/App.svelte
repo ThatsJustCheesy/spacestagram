@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Gallery from "../Gallery.svelte";
+  import Gallery from "./Gallery.svelte";
   import { fetchNasaRoverImagesForEarthDate } from "../model/NasaRoverImage";
   import { NasaRoverImageViewModel } from "../model/NasaRoverImageViewModel";
 

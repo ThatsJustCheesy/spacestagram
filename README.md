@@ -4,4 +4,6 @@ Image gallery of NASA Mars rover photography, for Shopify Front End Developer In
 
 Built with Svelte 3 and TypeScript.
 
-NASA API proxy server is here: [spacestagram-server](https://github.com/ThatsJustCheesy/spacestagram-server)
+Live site: https://igregory.ca/spacestagram/
+
+NASA API proxy server: [spacestagram-server](https://github.com/ThatsJustCheesy/spacestagram-server)

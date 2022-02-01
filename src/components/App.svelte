@@ -3,7 +3,7 @@
   import { fetchNasaRoverImagesForEarthDate } from "../model/NasaRoverImage";
   import { NasaRoverImageViewModel } from "../model/NasaRoverImageViewModel";
 
-  const yesterday = new Date(Date.now() - 8.64e7);
+  const yesterday = new Date(Date.now() - 2 * 8.64e7);
 </script>
 
 <main class="text-center">
